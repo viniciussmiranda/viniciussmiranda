@@ -53,7 +53,7 @@ Hi! I'm Vinicius: a 21-year-old **Internet Systems student**, passionate about t
   <img src="https://img.shields.io/badge/Gmail-80c0e6?style=flat-square&labelColor=80c0e6&logo=gmail&logoColor=white" target="_blank" />
 </a>
 
-<a href="www.linkedin.com/in/viniciussmiranda" alt="Linkedin">
+<a href="https://www.linkedin.com/in/viniciussmiranda" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-80c0e6?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"/>
 </a>
 
