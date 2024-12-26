@@ -57,4 +57,5 @@ Hi! I'm Vinicius: a 21-year-old **Internet Systems student**, passionate about t
   <img src="https://img.shields.io/badge/-Linkedin-80c0e6?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"/>
 </a>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciussmiranda&theme=nord_dark)
 </p>
