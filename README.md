@@ -12,39 +12,64 @@
  
 Hi! I'm Vinicius: a 21-year-old **Internet Systems student**, passionate about technology, problem-solving, and creating innovative solutions.  
 
-🎯 **What I'm working on:**  
-- Specializing in Frontend Development  
-  - Current stack: HTML, CSS, JavaScript, React, Figma
-  - Knowledge in: Python, Git, C++, Assembly, and Arduino  
-- Certified IoT professional, experienced with LoRaWAN technologies  
+📚 **Currently learning:** React (focused on becoming a Frontend Developer).
 
-🎓 **Background:**  
-- Internet Systems Student at UNICAP, specializing in application and system development.
-- Electronics Technician (IFPE) with hands-on experience in microcontrollers.
+💻 **Technology knowledge:**
 
-🎮 **Hobbies:**  
-- Watching movies 🎬  
-- Playing video games 🎮  
-- Exploring anime 🌟  
+- **Frontend:** HTML, CSS, JavaScript.
+- **Backend:** Python, C++, PHP.
+- **Version control:** Git, GitHub.
+
+🔧 **Electronics expertise:**
+
+- Certified in IoT with experience in LoRaWAN technologies.
+- Proficient with microcontrollers like ESP32 and Arduino.
+- Knowledge of Assembly programming.
+
+🎨 **Design interests:**
+
+I enjoy working with UI/UX and tools like Figma to create user-friendly designs.
+
+🎓 **Background:**
+- Internet Systems student at UNICAP, focused on application and system development.
+- Electronics Technician (IFPE) with practical experience in microcontrollers.
+
+🎮 **Hobbies:**
+- Watching movies 🎬
+- Playing video games 🎮
+- Exploring anime 🌟
  
  </div>
 
 🇧🇷: Olá! Sou Vinicius: um estudante de **Sistemas para Internet**, com 21 anos, apaixonado por tecnologia, resolução de problemas e criação de soluções inovadoras.  
 
-🎯 **No que estou trabalhando:**  
-- Especialização em Desenvolvimento Frontend  
-  - Stack atual: HTML, CSS, JavaScript, React, Figma 
-  - Conhecimentos em: Python, Git, C++, Assembly e Arduino  
-- Profissional certificado em IoT, com experiência em tecnologias LoRaWAN  
+📚 **Estudando atualmente:** React (com foco em me tornar um Desenvolvedor Frontend).
 
-🎓 **Formação:**  
+💻 **Conhecimentos em tecnologia:**
+
+- **Frontend:** HTML, CSS, JavaScript.
+- **Backend:** Python, C++, PHP.
+- **Controle de versão:** Git, GitHub.
+
+🔧 **Expertise em eletrônica:**
+
+- Certificado em IoT com experiência em tecnologias LoRaWAN.
+- Experiência com microcontroladores como ESP32 e Arduino.
+- Conhecimento em programação Assembly.
+
+🎨 **Interesses em design:**
+
+Gosto de trabalhar com UI/UX e ferramentas como Figma para criar designs intuitivos.
+
+**🎓 Formação:**
 - Estudante de Sistemas para Internet na UNICAP, com foco no desenvolvimento de aplicações e sistemas.
-- Técnico em Eletrônica (IFPE) com experiência prática em microcontroladores, como Arduino e ESP32.   
+- Técnico em Eletrônica (IFPE), com experiência prática em microcontroladores.
 
-🎮 **Hobbies:**  
-- Assistir filmes 🎬  
-- Jogar 🎮  
-- Explorar animes 🌟  
+**🎮 Hobbies:**
+- Assistir filmes 🎬
+- Jogar 🎮
+- Explorar animes 🌟
+
 
 💌 You can reach me on:
 
