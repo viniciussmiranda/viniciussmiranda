@@ -42,9 +42,10 @@ I enjoy working with UI/UX and tools like Figma to create user-friendly designs.
 - Exploring anime 🌟
  
  </div>
- 
+
 <hr>
-🇧🇷: Olá! Sou Vinicius: um estudante de **Sistemas para Internet**, com 21 anos, apaixonado por tecnologia, resolução de problemas e criação de soluções inovadoras.  
+ 
+🇧🇷: Olá! Sou Vinicius: um estudante de **Sistemas para Internet**, com 21 anos, apaixonado por tecnologia, resolução de problemas e criação de soluções inovadoras. 
 
 📚 **Estudando atualmente:** React (com foco em me tornar um Desenvolvedor Frontend).
 
