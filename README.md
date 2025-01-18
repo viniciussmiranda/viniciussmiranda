@@ -12,7 +12,7 @@
  
 Hi! I'm Vinicius: a 21-year-old **Internet Systems student**, passionate about technology, problem-solving, and creating innovative solutions.  
 
-<img src="https://github.com/viniciussmiranda/viniciussmiranda/raw/main/snorlax.gif" min-width="180px" max-width="180px" width="180px" align="right" alt="snorlax GIF">
+<img src="https://github.com/viniciussmiranda/viniciussmiranda/raw/main/snorlax.gif" min-width="150px" max-width="150px" width="150px" align="right" alt="snorlax GIF">
 
 📚 **Currently learning:** React (focused on becoming a Frontend Developer).
 
@@ -42,7 +42,8 @@ I enjoy working with UI/UX and tools like Figma to create user-friendly designs.
 - Exploring anime 🌟
  
  </div>
-
+ 
+<hr>
 🇧🇷: Olá! Sou Vinicius: um estudante de **Sistemas para Internet**, com 21 anos, apaixonado por tecnologia, resolução de problemas e criação de soluções inovadoras.  
 
 📚 **Estudando atualmente:** React (com foco em me tornar um Desenvolvedor Frontend).
