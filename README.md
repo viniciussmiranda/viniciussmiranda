@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">A Tech Enthusiast and Problem Solver</h3>
+<h3 align="center">A Tech enthusiast and problem solver</h3>
 
 <br/>
 
