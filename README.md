@@ -18,8 +18,8 @@ Hi! I'm Vinicius: a 21-year-old **Internet Systems student**, passionate about t
 
 💻 **Technology knowledge:**
 
-- **Frontend:** HTML, CSS, JavaScript.
-- **Backend:** Python, C++, PHP.
+- **Frontend:** HTML, CSS, JavaScript, React.
+- **Backend:** Python, C++, PHP, Java.
 - **Version control:** Git, GitHub.
 
 🔧 **Electronics expertise:**
@@ -47,12 +47,12 @@ I enjoy working with UI/UX and tools like Figma to create user-friendly designs.
  
 🇧🇷: Olá! Sou Vinicius: um estudante de **Sistemas para Internet**, com 21 anos, apaixonado por tecnologia, resolução de problemas e criação de soluções inovadoras. 
 
-📚 **Estudando atualmente:** React (com foco em me tornar um Desenvolvedor Frontend).
+📚 **Estudando atualmente:** Redes e Cibersegurança.
 
 💻 **Conhecimentos em tecnologia:**
 
-- **Frontend:** HTML, CSS, JavaScript.
-- **Backend:** Python, C++, PHP.
+- **Frontend:** HTML, CSS, JavaScript, React.
+- **Backend:** Python, C++, PHP, Java.
 - **Controle de versão:** Git, GitHub.
 
 🔧 **Expertise em eletrônica:**
