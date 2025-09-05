@@ -14,7 +14,7 @@ Hi! I'm Vinicius: a 21-year-old **Internet Systems student**, passionate about t
 
 <img src="https://github.com/viniciussmiranda/viniciussmiranda/raw/main/snorlax.gif" min-width="150px" max-width="150px" width="150px" align="right" alt="snorlax GIF">
 
-📚 **Currently learning:** React (focused on becoming a Frontend Developer).
+📚 **Currently learning:** Networking and Cybersecurity.
 
 💻 **Technology knowledge:**
 
